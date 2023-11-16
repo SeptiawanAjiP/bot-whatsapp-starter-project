@@ -6,5 +6,4 @@ const router = new Router();
 
 router.keyword("*", [BotController, "introduction"]);
 
-
 module.exports = router;
