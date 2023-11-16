@@ -1,0 +1,15 @@
+{
+    "intro": "Hai {0} 👋 \n\nSelamat datang di Service AC.\n\nKami menyediakan layanan AC Terbaik. Saat ini Anda terhubung dengan BOT Pintar.",
+    "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
+    "menu.daftarLayanan": "🧰 Daftar Layanan",
+    "menu.booking": "🔖 Booking",
+    "menu.riwayatBooking": "📑 Riwayat Booking",
+    "footer": "====================\n🌐 Kunjungi website kami: dewakoding.com\n📱 Chat admin : wa.me/6285771571495",
+    "daftarLayanan": "Berikut Daftar Layanan kami \n\n1. Cuci AC : Rp. 700.000\n2. Pasang AC Baru : Rp. 350.00\n3. Bongkar & Pasang AC : Rp. 400.000\n\nSegera booking layanan kami.",
+    "menu.back": "🏠 Kembali ke Menu Utama",
+    "kirimTanggal": "Silakan tulis Tanggal yang diinginkan dengan format *dd-mm-yyyy*",
+    "kirimLokasi": "Silakan share lokasi rumah Anda, agar memudahkan teknisi mencari rumah Anda.",
+    "salahFormat": "Pesan yang Anda masukan salah format, silakan kirim ulang location rumah Anda",
+    "bookingBerhasil": "Proses Booking Berhasil, tunggu konfirmasi dari Admin kami ya",
+    "notFound": "Anda belum tercatat melakukan Booking"
+}
