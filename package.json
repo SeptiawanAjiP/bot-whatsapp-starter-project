@@ -12,7 +12,7 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "nodemon": "^3.0.1",
-    "pepesan": "^3.4.2",
+    "pepesan": "github:mqad21/pepesan",
     "string-template": "^1.0.0"
   },
   "nodemonConfig": {
